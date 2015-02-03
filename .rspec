@@ -1,0 +1,4 @@
+--color
+--order default
+--require helper.rb
+-I .
